@@ -29,19 +29,17 @@ A modern GUI-based Weather Application built using Python and Tkinter that fetch
 - Pillow
 - OpenWeather API
 
----
-
 ## Project Structure
 
+```plaintext
 Task6_WeatherApp/
 │
-├── main.py
-├── requirements.txt
-├── README.md
-├── assets/
-└── screenshots/
-
----
+├── main.py              # Main application file
+├── requirements.txt     # Required libraries
+├── README.md            # Project documentation
+├── assets/              # Weather icons
+└── screenshots/         # Application screenshots
+```
 
 ## Installation
 
@@ -70,13 +68,6 @@ python main.py
 OpenWeather API:
 https://openweathermap.org/api
 
----
-
-## Screenshots
-
-(Add screenshots here)
-
----
 
 ## Learning Outcomes
 
